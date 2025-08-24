@@ -35,6 +35,15 @@ ul {
   color: #cd313e;
 }
 
+ul li a {
+  text-decoration: none;
+  color: #cd313e;
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
 button {
   width: 189.131px;
   height: 36px;
@@ -119,7 +128,7 @@ div .ancora {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.footer-content2 ul {
+.footer-content2 ul a {
   color: white;
   font-family: Roboto;
   font-size: 14px;
