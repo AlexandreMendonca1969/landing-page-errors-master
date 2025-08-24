@@ -114,6 +114,10 @@ div .ancora {
   padding: 10px 100px;
 }
 
+span {
+  color: white;
+}
+
 .footer-content {
   display: flex;
   justify-content: space-between;
